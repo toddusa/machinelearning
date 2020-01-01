@@ -12,3 +12,7 @@ https://dojang.io/mod/page/view.php?id=2470
 3-2. Python anaconda 가상환경 생성 (생성하지 않으면 사용할 수 없음)https://niceman.tistory.com/85https://niceman.tistory.com/86?category=940952
 https://www.youtube.com/watch?v=3mUtLYC4RUQ
 %% pip install ipykernel 라이브러리 설치해야 jupyter notebook 과 가상환경을 연결할수있음
+
+
+Git hub 강좌
+https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM
