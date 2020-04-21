@@ -17,3 +17,7 @@ https://janakiev.com/blog/jupyter-virtual-envs/
 
 Git hub 강좌
 https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM
+
+Jupyter notebook, Markdown 유용 사이트
+1.https://dillinger.io/
+2.https://stackedit.io/app#
