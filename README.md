@@ -1,4 +1,5 @@
 # machinelearning
+## set up 관련
 1. 사용자 계정이름 변경 (영문이 아닐 경우만 해당)http://www.tabmode.com/windows10/win10-user-name-change.html  
 2. Python anaconda 설치 1) 설치파일 다운로드https://www.anaconda.com/distribution/ 하단 Python 3.7 버전 다운로드. (기존 Python 보다 다양한 라이브러리 설치가 쉬움)2) 설치파일 실행시 참고자료https://m.blog.naver.com/jooostory/221196479998 ‘Add Anaconda to the system PATH environment variable’ 꼭 선택 후 설치 설치완료후 cmd에서 python –version 확인을 통해 설치 여부 확인  
 3.  Python 가상환경 생성  
